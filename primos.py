@@ -7,3 +7,6 @@ def Primo(a):
 			return NoPrimo
 		m+=1
 	return Primo
+print(Primo(2))
+print(Primo(6))
+print(Primo(11))
